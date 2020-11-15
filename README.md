@@ -22,3 +22,6 @@ Candidate 2/B won a total of 31 precincts, receiving almost 15 thousand votes in
 Tools/Packages Used:
 
 Nothing special, but we developed some new functions specific to analyzing voter/election data. All are reusable and a part of the pipeline.
+
+
+Data is from SF DOE and can be found in this repo
